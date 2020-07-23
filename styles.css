@@ -1,0 +1,102 @@
+#navbarSupportedContent{
+	margin-right:50px;
+}
+
+.navbar{
+	width:100%;
+}
+
+.navbar-brand{
+	color: white;
+	font-size:2em;
+	
+	margin-left:50px;
+}
+.nav-link{
+	
+	font-size:1.3em;
+}
+
+@media (max-width: 1000px){
+	
+	.nav-link{
+		margin-top:10px;
+		margin-left:50px;
+	}
+}
+
+h1{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 3.5rem;
+	line-height: 1.5;
+	margin-left:50px;
+	margin-top: 40px;
+}
+#second img{
+	height:80%;
+	width:80%;
+	border-radius: 20px;
+	position:relative;
+	top:50px;
+	left:70px;
+	
+}
+.row{
+	padding-bottom: 5%;
+}
+
+#hd{
+	padding:5%;
+}
+h2{
+	text-align: center;
+	font-size: 5em;
+	color: rgb(50, 155, 255);
+}
+@media (max-width: 1000px){
+	
+	h2{
+		font-size:3em;
+	}
+}
+#cnt{
+	font-size: 1.4em;
+	margin-left:50px;
+	line-height: 1.2;
+}
+#Submit{
+	
+	width:20%;
+	margin-left: 90px;
+	margin-bottom:2%;
+}
+.fs{
+	color:green;
+	visibility: hidden;
+}
+#divider{
+	margin-bottom: 0;
+}
+#result{
+	text-align: center;
+	font-size: 1.2rem;
+	background-color: rgba(0, 196, 255, 0.1);
+	
+}
+.ss{
+	color:green;
+}
+.sj{
+	color:red;
+}
+#non{
+    text-align:center;
+	padding:3%;
+	font-size:1.5rem;
+}
+#tg{
+	font-size:3rem;
+}
+
